@@ -32,4 +32,5 @@
 11/04 - 11/05	패키지 파일, 시연 영상, PPT제작
 
 후기와 차후 계획
-</br>[링크](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%ED%9B%84%EA%B8%B0%EA%B0%9C%EC%84%A0%ED%95%A0-%EC%A0%90)
+</br>[후기 링크](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%ED%9B%84%EA%B8%B0%EA%B0%9C%EC%84%A0%ED%95%A0-%EC%A0%90)
+</br>[새로운 프로젝트 링크](https://github.com/ldsldy/UnrealProject_TPS.git)
