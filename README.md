@@ -12,15 +12,24 @@
 
 일정 계획
 
-10/23-10/26	플레이어 캐릭터 이동 하반신과 견착 상태 구현 + 트레이스
-</br>[기본 이동모션 구현](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%EB%AA%A8%EC%85%98)
+10/23-10/26	플레이어 캐릭터 이동 하반신, 무기 애니메이션
+</br>[링크 애니메이션과 Ik](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%EB%AA%A8%EC%85%98)
+</br>[링크 캐릭터 입력](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC5-%EB%AA%A8%EB%93%88%ED%98%95-%EA%B2%8C%EC%9E%84%ED%94%8C%EB%A0%88%EC%9D%B4)
 
 10/27-10/29	원거리 몬스터 구현(AI포함)과 체력, 데미지 시스템 추가
+</br>[링크 적 구현(베이스와 원거리)](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%EC%A0%81-%EA%B5%AC%ED%98%84)
 
 10/29-10/30	캐릭터와 몬스터 UI추가(HUD:캐릭터 체력, 캐릭터 스태미너, 남은 장탄량)(몬스터는 체력 표시만)
+</br>[링크 UI](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-UI)
 
-10/31       캐릭터 상체 모션(견착 상태에서 상체의 앞으로 기울어짐과 상체 블렌딩 모션, 에임 오프셋) <= 라이플만 구현, 발사에 맞추어 총기 애니메이션, 소리 추가
+10/31 캐릭터 상체 모션(견착 상태에서 상체의 앞으로 기울어짐과 상체 블렌딩 모션, 에임 오프셋) <= 라이플만 구현, 발사에 맞추어 총기 애니메이션 추가
+</br>[링크 애니메이션과 Ik](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%EB%AA%A8%EC%85%98)
+</br>[링크 캐릭터 입력](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC5-%EB%AA%A8%EB%93%88%ED%98%95-%EA%B2%8C%EC%9E%84%ED%94%8C%EB%A0%88%EC%9D%B4)
 
-11/01 - 11/03 보스 몬스터 구현(보스 몬스터용 상단 체력 UI포함)
+11/01 - 11/03 근거리 몬스터 구현
+</br>[링크 적 구현(베이스와 원거리)](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%EC%A0%81-%EA%B5%AC%ED%98%84%EA%B7%BC%EA%B1%B0%EB%A6%AC%EC%99%80-%EC%8A%A4%ED%8F%B0)
 
 11/04 - 11/05	패키지 파일, 시연 영상, PPT제작
+
+후기와 차후 계획
+</br>[링크](https://velog.io/@ldsldy/%EC%96%B8%EB%A6%AC%EC%96%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-%ED%9B%84%EA%B8%B0%EA%B0%9C%EC%84%A0%ED%95%A0-%EC%A0%90)
